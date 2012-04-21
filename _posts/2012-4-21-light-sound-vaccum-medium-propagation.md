@@ -1,9 +1,11 @@
 ---
 layout: post
+title: 光 声 真空 介质 传播
 ---
+
 _I'm living, I'm thinking._
 
-# What am I talking about
+## What am I talking about
 组会上提到关于无线电波穿过墙壁的问题，突然想到几个问题：
 
 1. 光为什么能穿过空气
@@ -13,13 +15,13 @@ _I'm living, I'm thinking._
 
 想了好久没想明白，于是google，现在将查到的结果总结一下
 
-# 结果
+## 结果
 _下列结果主要来自http://www.physicsclassroom.com/_
 
-## 波(wave)的分类
+### 波(wave)的分类
 _http://www.physicsclassroom.com/Class/waves/u10l1c.cfm_
 
-### 波可以分为横波，纵波和表面波
+#### 波可以分为横波，纵波和表面波
 横波和纵波不需要多介绍，高中都学过的。表面波是媒介的微粒做圆圈状运动的波，比如地震波在海洋表面传播的部分。这个与我的问题关系不大，不再多说，附图一张。
 
 ![surface wave](/img/surface-wave.gif)
@@ -28,7 +30,7 @@ _http://www.physicsclassroom.com/Class/waves/u10l1c.cfm_
 
 到这里，解释了声的传播，但是对光，还没有解释。
 
-### 波可以分为电磁波和机械波
+#### 波可以分为电磁波和机械波
 这是对波的另一种分类方式。而这种分类的依据就是，能否在真空中传播。能在真空中传播的是电磁波，不能的是机械波。
 
 这个对我们的问题没有起到解释的作用，反而更加深了疑问：电磁波为什么能在真空中传播？
@@ -37,7 +39,7 @@ _http://www.physicsclassroom.com/Class/waves/u10l1c.cfm_
 
 到此，前面提到的几个问题就都可以合理的解释了。
 
-# 总结
+## 总结
 之前，疑问的关键集中在两点：
 
 1. 光的传播与声的传播区别在什么地方，当时我甚至提出光传播时表现的是粒子性还是波动性这种问题，现在看来，完全走远了。其实答案就是：媒介是不同的。
