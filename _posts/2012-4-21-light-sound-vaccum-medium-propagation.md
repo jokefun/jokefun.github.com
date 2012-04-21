@@ -1,4 +1,6 @@
-
+---
+layout: post
+---
 _I'm living, I'm thinking._
 
 # What am I talking about
