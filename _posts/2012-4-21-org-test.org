@@ -1,0 +1,30 @@
+---
+layout: post
+title: orgTest
+---
+
+* 考试
+** GPA
+** GRE and TOEFL
+- 使劲考
+- 重不重考
+
+* 申请
+** 选校
+*** 排名
++ 专排 vs 综排 自己定夺
++ 老师 陶瓷
+
+** 管理
+申请管理表
+- 网址，用户名，密码
+- 进度
+
+** PS and CV
+推荐一个blog http://seven4ever.blogbus.com/
+- 多改几遍
+- 找个好看一点的模板，页眉
+
+** 互相帮助
+- 消息，问题
+- 进度
