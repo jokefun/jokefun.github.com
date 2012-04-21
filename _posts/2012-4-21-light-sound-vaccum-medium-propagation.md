@@ -16,10 +16,10 @@ _I'm living, I'm thinking._
 想了好久没想明白，于是google，现在将查到的结果总结一下
 
 ## 结果
-_下列结果主要来自http://www.physicsclassroom.com/_
+_下列结果主要来自<http://www.physicsclassroom.com/>_
 
 ### 波(wave)的分类
-_http://www.physicsclassroom.com/Class/waves/u10l1c.cfm_
+_<http://www.physicsclassroom.com/Class/waves/u10l1c.cfm>_
 
 #### 波可以分为横波，纵波和表面波
 横波和纵波不需要多介绍，高中都学过的。表面波是媒介的微粒做圆圈状运动的波，比如地震波在海洋表面传播的部分。这个与我的问题关系不大，不再多说，附图一张。
@@ -35,7 +35,7 @@ _http://www.physicsclassroom.com/Class/waves/u10l1c.cfm_
 
 这个对我们的问题没有起到解释的作用，反而更加深了疑问：电磁波为什么能在真空中传播？
 
-继续搜索，得到一个比较合理的解答(http://answers.yahoo.com/question/index?qid=20080313220336AAtegEn)：电磁波有互相垂直的电波和磁波，在传播的过程中，电波产生磁波，磁波产生电波，电磁波自己传播了自己。
+继续搜索，得到一个比较合理的解答(<http://answers.yahoo.com/question/index?qid=20080313220336AAtegEn>)：电磁波有互相垂直的电波和磁波，在传播的过程中，电波产生磁波，磁波产生电波，电磁波自己传播了自己。
 
 到此，前面提到的几个问题就都可以合理的解释了。
 
