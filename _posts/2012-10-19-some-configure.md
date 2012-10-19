@@ -14,7 +14,13 @@ filetype plugin on
 {% endhighlight %}
 
 Meaning of the settings:
-ts=tabstop sts=softtabstop sw=shiftwidth et=expandtab, si=smart indent, ai=auto indent
+
+>  ts=tabstop,
+>  sts=softtabstop,
+>  sw=shiftwidth,
+>  et=expandtab,
+>  si=smart indent,
+>  ai=auto indent
 
 ## Git
 
