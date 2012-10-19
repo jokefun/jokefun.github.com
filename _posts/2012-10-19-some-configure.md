@@ -3,7 +3,7 @@ layout: post
 title: 一些配置
 ---
 
-# MacVim
+## MacVim
 
 {% highlight bash %}
 set nu sts=4 ts=4 sw=4 et si ai
@@ -16,7 +16,7 @@ filetype plugin on
 Meaning of the settings:
 ts=tabstop sts=softtabstop sw=shiftwidth et=expandtab, si=smart indent, ai=auto indent
 
-# Git
+## Git
 
 Git-core is included in the xcode. PATH=/Application/Xcode.app/Contents/Developer/usr/libexec/git-core.
 
