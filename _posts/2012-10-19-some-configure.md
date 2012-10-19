@@ -17,3 +17,9 @@ filetype plugin on
 
 [to be continued]
 
+{% highlight ruby %}
+def test
+  "hello"
+end
+{% endhighlight %}
+
