@@ -20,15 +20,19 @@ ts=tabstop sts=softtabstop sw=shiftwidth et=expandtab, si=smart indent, ai=auto 
 
 Git-core is included in the xcode. PATH=/Application/Xcode.app/Contents/Developer/usr/libexec/git-core.
 
+{% highlight bash %}
 git config --global user.name "Your Name Here"
 git config --global user.email "your_email@youremail.com"
+{% endhighlight %}
 
 Use credential-osxkeychain to remember password.
 
+{% highlight bash %}
 curl -s -O http://github-media-downloads.s3.amazonaws.com/osx/git-credential-osxkeychain
 chmod u+x git-credential-osxkeychain
 sudo mv git-credential-osxkeychain /path/to/git
 git config --global credential.helper osxkeychain
+{% endhighlight %}
 
 Celebrate!
 
