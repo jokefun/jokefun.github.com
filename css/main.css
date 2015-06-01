@@ -1,0 +1,83 @@
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+	font-family: 'Open Sans','helvetica',arial,sans-serif;
+}
+
+.main-header {
+	padding: 1px;
+	margin-top: 50px;
+
+	text-align: center;
+
+	background-color: rgb(240,249,255);
+}
+
+.main-header__avatar {
+	display: block;
+	height: 60px;
+	margin: 0 auto;
+	margin-top: -23px;
+	margin-bottom: 15px;
+
+	box-shadow: 0 0px 2px 1px rgba(0,0,0,0.2);
+	border-radius: 999px;
+	border: solid;
+	border-color: rgb(0,0,0);
+}
+
+.main-header h1 {
+	margin: 0px auto 20px auto;
+
+	font-weight: 300;
+	font-size: 30px;
+	/*color: rgb(255,255,255);*/
+	text-shadow: 0 1px rgba(0,0,0,0.3);
+}
+
+.main-index, .post-container {
+	margin: auto 20px;
+}
+.main-posts {
+	margin: auto 20px;
+}
+.main-post-entry {
+	margin: 10px;
+}
+.main-post-date {
+	float: left;
+	width: 130px;
+	font-family: 'Droid Sans Mono','helvetica',arial,sans-serif;
+}
+.main-post-arrow {
+	float: left;
+	width: 50px;
+}
+.main-footer {
+	font-size: 80%;
+	color: #666;
+	border-top: 4px solid #EEE;
+	padding-top: 1px;
+	margin-top: 49px;
+	margin-bottom: 20px;
+}
+
+.post-content {
+	margin: 50px 20px 50px;
+}

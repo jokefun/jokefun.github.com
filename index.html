@@ -3,11 +3,26 @@ layout: default
 title: Jokefun's
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
+<div class="main-index">
+  <h1>Posts</h1>
+  <div class="main-posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <div class="main-post-entry">
+      	<span class="main-post-date">{{ post.date | date_to_string }}</span> <span class="main-post-arrow">&raquo;</span> <span class="main-post-url"><a href="{{ post.url }}">{{ post.title }}</a></span>
+      </div>
     {% endfor %}
-  </ul>
+  </div>
+
+
+    
+    <section class="main-footer">
+        <p>
+          <!--a href="http://github.com/jokefun/">github</a>
+          <a href="http://twitter.com/lmhhaha/">twitter</a>
+  		<a href="http://www.jokefun.co.cc/">anotherBlog</a-->
+          Powered by <a href="http://jekyllrb.com">[jekyll]</a><br>
+          Hosted on <a href="https://github.com/jokefun/jokefun.github.com">[Github]</a>
+        </p>
+    </section>
 </div>
+
