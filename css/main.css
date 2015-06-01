@@ -33,13 +33,14 @@ a:active {
 	display: block;
 	height: 60px;
 	margin: 0 auto;
-	margin-top: -23px;
+	margin-top: -22px;
 	margin-bottom: 15px;
 
-	box-shadow: 0 0px 2px 1px rgba(0,0,0,0.2);
+	/*box-shadow: 0 0px 2px 1px rgba(0,0,0,0.2);*/
 	border-radius: 999px;
 	border: solid;
-	border-color: rgb(0,0,0);
+	border-width: 1px;
+	border-color: #A0A0A0;
 }
 
 .main-header h1 {
