@@ -1,1 +1,3 @@
 http://jokefun.me
+
+changed from jokefun.github.com to menghanl.github.io
